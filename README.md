@@ -23,13 +23,13 @@ Rule-Based Medical Assistant is a simple expert system developed as Laboratory E
 * Python 3.x <br>
 * pip <br>
 ### Installation & Run
-1. Installation & Run <br>
-   &nbsp; &nbsp; git clone https://github.com/Nin-Onin/RuleBasedHealthAssistant.git <br>
-   &nbsp; &nbsp; cd RuleBasedHealthAssistant
+1. Clone the repository <br>
+   &nbsp; &nbsp; `git clone https://github.com/Nin-Onin/RuleBasedHealthAssistant.git` <br>
+   &nbsp; &nbsp; `cd RuleBasedHealthAssistant`
 2. Install the required dependency <br>
-   &nbsp; &nbsp; pip install pillow <br>
+   &nbsp; &nbsp; `pip install pillow` <br>
 3. Run the application <br>
-   &nbsp; &nbsp; python RuleBasedHealthAssistant.py
+   &nbsp; &nbsp; `python RuleBasedHealthAssistant.py`
 
 ## 🚀 Usage
 1. Click Get Started on the welcome screen.
